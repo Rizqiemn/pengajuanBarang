@@ -17,14 +17,14 @@ password: a
  *Manager
 ###################
 
-username : officer
+username : manager
 password: a
 - hanya dapat mengubah status Approve / Reject
 
 ###################
  *Finance
 ###################
-username : officer
+username : finance
 password: a
 - dapat mengubah data dan menambahkan foto upload bukti pembayaran.
 
