@@ -29,4 +29,6 @@ password: a
 - dapat mengubah data dan menambahkan foto upload bukti pembayaran.
 
 
-Web ini didasari oleh test yang diberikan oleh Marry Riana Group 
+
+
+Web ini didasari oleh test yang diberikan oleh Merry Riana Group 
